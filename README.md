@@ -5,7 +5,7 @@ EasyBR-极简指纹浏览器介绍
 
 官网：https://www.ebrower.com/
 
-帮助教程：[https://hfcdp5.helplookapp.com/](https://ebrower.com/helperdoc/easybrintroduce.html)
+帮助教程：https://ebrower.com/helperdoc/easybrintroduce.html
 
 EasyBr指纹浏览器 ：一个简单好用的指纹浏览器
 
