@@ -1,4 +1,4 @@
-# easybr
+# easybr 永久免费指纹浏览器
 EasyBR-极简指纹浏览器介绍
 
 
